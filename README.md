@@ -50,4 +50,4 @@ you've just cloned!!
 
 * [`MhankBarBar`](https://github.com/MhankBarBar) 
 
-* [`エカダヌアルタ`] (https://github.com/ekadanuarta) 
+* EKA GANS (Gua Sendiri) 
