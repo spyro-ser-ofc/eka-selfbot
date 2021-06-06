@@ -47,3 +47,5 @@ you've just cloned!!
 ## Special Thanks to
 
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+
+* <a href="https://github.com/mhankbarbar/termux-wabot"><img alt="Github" src="https://img.shields.io/badge/mhankbarbar/termux-wabot%20%23121011.svg? style=for-the-badge&logo=github&logoColor=white"/></a>
