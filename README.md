@@ -50,4 +50,4 @@ you've just cloned!!
 
 * [`MhankBarBar`](https://github.com/MhankBarBar) 
 
-* [`EKA GANS`] (https://github.com/ekadanuarta) 
+* [`ekadanuarta`] (https://github.com/ekadanuarta) 
