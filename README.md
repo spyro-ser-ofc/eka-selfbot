@@ -48,4 +48,4 @@ you've just cloned!!
 
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
-* Mhankbarbar ("https://github.com/mhankbarbar") 
+* [`MhankBarBar`](https://github.com/MhankBarBar) 
