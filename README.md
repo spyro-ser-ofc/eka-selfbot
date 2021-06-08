@@ -41,8 +41,10 @@ you've just cloned!!
   
 ## Special Thanks to
 
+* Allah SWT
+
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 * [`MhankBarBar`](https://github.com/MhankBarBar) 
 
-* EKA GANS (Gua Sendiri) 
+* Emak & Bapak
